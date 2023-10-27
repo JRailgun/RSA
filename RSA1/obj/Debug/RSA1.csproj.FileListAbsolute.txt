@@ -1,0 +1,232 @@
+C:\Users\Женя\Desktop\лабы\Инф без\лаба 4\RSA1\RSA1\bin\Debug\RSA1.exe.config
+C:\Users\Женя\Desktop\лабы\Инф без\лаба 4\RSA1\RSA1\bin\Debug\RSA1.exe
+C:\Users\Женя\Desktop\лабы\Инф без\лаба 4\RSA1\RSA1\bin\Debug\RSA1.pdb
+C:\Users\Женя\Desktop\лабы\Инф без\лаба 4\RSA1\RSA1\obj\Debug\RSA1.csproj.AssemblyReference.cache
+C:\Users\Женя\Desktop\лабы\Инф без\лаба 4\RSA1\RSA1\obj\Debug\RSA1.csproj.SuggestedBindingRedirects.cache
+C:\Users\Женя\Desktop\лабы\Инф без\лаба 4\RSA1\RSA1\obj\Debug\RSA1.Form1.resources
+C:\Users\Женя\Desktop\лабы\Инф без\лаба 4\RSA1\RSA1\obj\Debug\RSA1.Properties.Resources.resources
+C:\Users\Женя\Desktop\лабы\Инф без\лаба 4\RSA1\RSA1\obj\Debug\RSA1.csproj.GenerateResource.cache
+C:\Users\Женя\Desktop\лабы\Инф без\лаба 4\RSA1\RSA1\obj\Debug\RSA1.csproj.CoreCompileInputs.cache
+C:\Users\Женя\Desktop\лабы\Инф без\лаба 4\RSA1\RSA1\obj\Debug\RSA1.exe
+C:\Users\Женя\Desktop\лабы\Инф без\лаба 4\RSA1\RSA1\obj\Debug\RSA1.pdb
+C:\Users\Женя\Desktop\лабы\Инф без\лаба 4\RSA1\RSA1\bin\Debug\librdkafka\x86\libcrypto-1_1.dll
+C:\Users\Женя\Desktop\лабы\Инф без\лаба 4\RSA1\RSA1\bin\Debug\librdkafka\x86\libcurl.dll
+C:\Users\Женя\Desktop\лабы\Инф без\лаба 4\RSA1\RSA1\bin\Debug\librdkafka\x86\librdkafka.dll
+C:\Users\Женя\Desktop\лабы\Инф без\лаба 4\RSA1\RSA1\bin\Debug\librdkafka\x86\librdkafkacpp.dll
+C:\Users\Женя\Desktop\лабы\Инф без\лаба 4\RSA1\RSA1\bin\Debug\librdkafka\x86\libssl-1_1.dll
+C:\Users\Женя\Desktop\лабы\Инф без\лаба 4\RSA1\RSA1\bin\Debug\librdkafka\x86\msvcp140.dll
+C:\Users\Женя\Desktop\лабы\Инф без\лаба 4\RSA1\RSA1\bin\Debug\librdkafka\x86\vcruntime140.dll
+C:\Users\Женя\Desktop\лабы\Инф без\лаба 4\RSA1\RSA1\bin\Debug\librdkafka\x86\zlib1.dll
+C:\Users\Женя\Desktop\лабы\Инф без\лаба 4\RSA1\RSA1\bin\Debug\librdkafka\x86\zstd.dll
+C:\Users\Женя\Desktop\лабы\Инф без\лаба 4\RSA1\RSA1\bin\Debug\librdkafka\x64\libcrypto-1_1-x64.dll
+C:\Users\Женя\Desktop\лабы\Инф без\лаба 4\RSA1\RSA1\bin\Debug\librdkafka\x64\libcurl.dll
+C:\Users\Женя\Desktop\лабы\Инф без\лаба 4\RSA1\RSA1\bin\Debug\librdkafka\x64\librdkafka.dll
+C:\Users\Женя\Desktop\лабы\Инф без\лаба 4\RSA1\RSA1\bin\Debug\librdkafka\x64\librdkafkacpp.dll
+C:\Users\Женя\Desktop\лабы\Инф без\лаба 4\RSA1\RSA1\bin\Debug\librdkafka\x64\libssl-1_1-x64.dll
+C:\Users\Женя\Desktop\лабы\Инф без\лаба 4\RSA1\RSA1\bin\Debug\librdkafka\x64\msvcp140.dll
+C:\Users\Женя\Desktop\лабы\Инф без\лаба 4\RSA1\RSA1\bin\Debug\librdkafka\x64\vcruntime140.dll
+C:\Users\Женя\Desktop\лабы\Инф без\лаба 4\RSA1\RSA1\bin\Debug\librdkafka\x64\zlib1.dll
+C:\Users\Женя\Desktop\лабы\Инф без\лаба 4\RSA1\RSA1\bin\Debug\librdkafka\x64\zstd.dll
+C:\Users\Женя\Desktop\лабы\Инф без\лаба 4\RSA1\RSA1\bin\Debug\Confluent.Kafka.dll
+C:\Users\Женя\Desktop\лабы\Инф без\лаба 4\RSA1\RSA1\bin\Debug\System.Buffers.dll
+C:\Users\Женя\Desktop\лабы\Инф без\лаба 4\RSA1\RSA1\bin\Debug\System.Memory.dll
+C:\Users\Женя\Desktop\лабы\Инф без\лаба 4\RSA1\RSA1\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Женя\Desktop\лабы\Инф без\лаба 4\RSA1\RSA1\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Женя\Desktop\лабы\Инф без\лаба 4\RSA1\RSA1\bin\Debug\Confluent.Kafka.xml
+C:\Users\Женя\Desktop\лабы\Инф без\лаба 4\RSA1\RSA1\bin\Debug\System.Buffers.xml
+C:\Users\Женя\Desktop\лабы\Инф без\лаба 4\RSA1\RSA1\bin\Debug\System.Memory.xml
+C:\Users\Женя\Desktop\лабы\Инф без\лаба 4\RSA1\RSA1\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Женя\Desktop\лабы\Инф без\лаба 4\RSA1\RSA1\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Женя\Desktop\лабы\Инф без\лаба 4\RSA1\RSA1\obj\Debug\RSA1.csproj.CopyComplete
+C:\Users\yaros\source\repos\RSA1 (1)\RSA1\bin\Debug\librdkafka\x86\libcrypto-1_1.dll
+C:\Users\yaros\source\repos\RSA1 (1)\RSA1\bin\Debug\librdkafka\x86\libcurl.dll
+C:\Users\yaros\source\repos\RSA1 (1)\RSA1\bin\Debug\librdkafka\x86\librdkafka.dll
+C:\Users\yaros\source\repos\RSA1 (1)\RSA1\bin\Debug\librdkafka\x86\librdkafkacpp.dll
+C:\Users\yaros\source\repos\RSA1 (1)\RSA1\bin\Debug\librdkafka\x86\libssl-1_1.dll
+C:\Users\yaros\source\repos\RSA1 (1)\RSA1\bin\Debug\librdkafka\x86\msvcp140.dll
+C:\Users\yaros\source\repos\RSA1 (1)\RSA1\bin\Debug\librdkafka\x86\vcruntime140.dll
+C:\Users\yaros\source\repos\RSA1 (1)\RSA1\bin\Debug\librdkafka\x86\zlib1.dll
+C:\Users\yaros\source\repos\RSA1 (1)\RSA1\bin\Debug\librdkafka\x86\zstd.dll
+C:\Users\yaros\source\repos\RSA1 (1)\RSA1\bin\Debug\librdkafka\x64\libcrypto-1_1-x64.dll
+C:\Users\yaros\source\repos\RSA1 (1)\RSA1\bin\Debug\librdkafka\x64\libcurl.dll
+C:\Users\yaros\source\repos\RSA1 (1)\RSA1\bin\Debug\librdkafka\x64\librdkafka.dll
+C:\Users\yaros\source\repos\RSA1 (1)\RSA1\bin\Debug\librdkafka\x64\librdkafkacpp.dll
+C:\Users\yaros\source\repos\RSA1 (1)\RSA1\bin\Debug\librdkafka\x64\libssl-1_1-x64.dll
+C:\Users\yaros\source\repos\RSA1 (1)\RSA1\bin\Debug\librdkafka\x64\msvcp140.dll
+C:\Users\yaros\source\repos\RSA1 (1)\RSA1\bin\Debug\librdkafka\x64\vcruntime140.dll
+C:\Users\yaros\source\repos\RSA1 (1)\RSA1\bin\Debug\librdkafka\x64\zlib1.dll
+C:\Users\yaros\source\repos\RSA1 (1)\RSA1\bin\Debug\librdkafka\x64\zstd.dll
+C:\Users\yaros\source\repos\RSA1 (1)\RSA1\bin\Debug\RSA1.exe.config
+C:\Users\yaros\source\repos\RSA1 (1)\RSA1\bin\Debug\RSA1.exe
+C:\Users\yaros\source\repos\RSA1 (1)\RSA1\bin\Debug\RSA1.pdb
+C:\Users\yaros\source\repos\RSA1 (1)\RSA1\bin\Debug\Confluent.Kafka.dll
+C:\Users\yaros\source\repos\RSA1 (1)\RSA1\bin\Debug\System.Buffers.dll
+C:\Users\yaros\source\repos\RSA1 (1)\RSA1\bin\Debug\System.Memory.dll
+C:\Users\yaros\source\repos\RSA1 (1)\RSA1\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\yaros\source\repos\RSA1 (1)\RSA1\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\yaros\source\repos\RSA1 (1)\RSA1\bin\Debug\Confluent.Kafka.xml
+C:\Users\yaros\source\repos\RSA1 (1)\RSA1\bin\Debug\System.Buffers.xml
+C:\Users\yaros\source\repos\RSA1 (1)\RSA1\bin\Debug\System.Memory.xml
+C:\Users\yaros\source\repos\RSA1 (1)\RSA1\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\yaros\source\repos\RSA1 (1)\RSA1\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\yaros\source\repos\RSA1 (1)\RSA1\obj\Debug\RSA1.csproj.AssemblyReference.cache
+C:\Users\yaros\source\repos\RSA1 (1)\RSA1\obj\Debug\RSA1.csproj.SuggestedBindingRedirects.cache
+C:\Users\yaros\source\repos\RSA1 (1)\RSA1\obj\Debug\RSA1.Form1.resources
+C:\Users\yaros\source\repos\RSA1 (1)\RSA1\obj\Debug\RSA1.Properties.Resources.resources
+C:\Users\yaros\source\repos\RSA1 (1)\RSA1\obj\Debug\RSA1.csproj.GenerateResource.cache
+C:\Users\yaros\source\repos\RSA1 (1)\RSA1\obj\Debug\RSA1.csproj.CoreCompileInputs.cache
+C:\Users\yaros\source\repos\RSA1 (1)\RSA1\obj\Debug\RSA1.csproj.CopyComplete
+C:\Users\yaros\source\repos\RSA1 (1)\RSA1\obj\Debug\RSA1.exe
+C:\Users\yaros\source\repos\RSA1 (1)\RSA1\obj\Debug\RSA1.pdb
+C:\Users\yaros\source\repos\RSA1 (1)\RSA1\obj\Debug\RSA1.FormInfo.resources
+C:\Users\yaros\source\repos\RSA1 (1)\RSA1\obj\Debug\RSA1.FormMain.resources
+C:\Users\yaros\source\repos\RSA1 (1)\RSA1\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\yaros\source\repos\RSA1 (1)\RSA1\bin\Debug\Syncfusion.Compression.Base.dll
+C:\Users\yaros\source\repos\RSA1 (1)\RSA1\bin\Debug\Syncfusion.Licensing.dll
+C:\Users\yaros\source\repos\RSA1 (1)\RSA1\bin\Debug\Syncfusion.OfficeChart.Base.dll
+C:\Users\yaros\source\repos\RSA1 (1)\RSA1\bin\Debug\Syncfusion.Presentation.Base.dll
+C:\Users\yaros\source\repos\RSA1 (1)\RSA1\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\yaros\source\repos\RSA1 (1)\RSA1\bin\Debug\System.Text.Json.dll
+C:\Users\yaros\source\repos\RSA1 (1)\RSA1\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\yaros\source\repos\RSA1 (1)\RSA1\bin\Debug\System.ValueTuple.dll
+C:\Users\yaros\source\repos\RSA1 (1)\RSA1\bin\Debug\VisioForge.Core.dll
+C:\Users\yaros\source\repos\RSA1 (1)\RSA1\bin\Debug\VisioForge.Libs.dll
+C:\Users\yaros\source\repos\RSA1 (1)\RSA1\bin\Debug\VisioForge.MediaFramework.dll
+C:\Users\yaros\source\repos\RSA1 (1)\RSA1\bin\Debug\VisioForge.Types.dll
+C:\Users\yaros\source\repos\RSA1 (1)\RSA1\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\yaros\source\repos\RSA1 (1)\RSA1\bin\Debug\Syncfusion.Compression.Base.xml
+C:\Users\yaros\source\repos\RSA1 (1)\RSA1\bin\Debug\Syncfusion.OfficeChart.Base.xml
+C:\Users\yaros\source\repos\RSA1 (1)\RSA1\bin\Debug\Syncfusion.Presentation.Base.xml
+C:\Users\yaros\source\repos\RSA1 (1)\RSA1\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\yaros\source\repos\RSA1 (1)\RSA1\bin\Debug\System.Text.Json.xml
+C:\Users\yaros\source\repos\RSA1 (1)\RSA1\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\yaros\source\repos\RSA1 (1)\RSA1\bin\Debug\System.ValueTuple.xml
+C:\Users\yaros\source\repos\RSA1 (1)\RSA1\obj\Debug\RSA1.FormDesc.resources
+C:\Users\Женя\Desktop\лабы\Инф без\лаба 4\RSA1 (1)\RSA1\bin\Debug\librdkafka\x86\libcrypto-1_1.dll
+C:\Users\Женя\Desktop\лабы\Инф без\лаба 4\RSA1 (1)\RSA1\bin\Debug\librdkafka\x86\libcurl.dll
+C:\Users\Женя\Desktop\лабы\Инф без\лаба 4\RSA1 (1)\RSA1\bin\Debug\librdkafka\x86\librdkafka.dll
+C:\Users\Женя\Desktop\лабы\Инф без\лаба 4\RSA1 (1)\RSA1\bin\Debug\librdkafka\x86\librdkafkacpp.dll
+C:\Users\Женя\Desktop\лабы\Инф без\лаба 4\RSA1 (1)\RSA1\bin\Debug\librdkafka\x86\libssl-1_1.dll
+C:\Users\Женя\Desktop\лабы\Инф без\лаба 4\RSA1 (1)\RSA1\bin\Debug\librdkafka\x86\msvcp140.dll
+C:\Users\Женя\Desktop\лабы\Инф без\лаба 4\RSA1 (1)\RSA1\bin\Debug\librdkafka\x86\vcruntime140.dll
+C:\Users\Женя\Desktop\лабы\Инф без\лаба 4\RSA1 (1)\RSA1\bin\Debug\librdkafka\x86\zlib1.dll
+C:\Users\Женя\Desktop\лабы\Инф без\лаба 4\RSA1 (1)\RSA1\bin\Debug\librdkafka\x86\zstd.dll
+C:\Users\Женя\Desktop\лабы\Инф без\лаба 4\RSA1 (1)\RSA1\bin\Debug\librdkafka\x64\libcrypto-1_1-x64.dll
+C:\Users\Женя\Desktop\лабы\Инф без\лаба 4\RSA1 (1)\RSA1\bin\Debug\librdkafka\x64\libcurl.dll
+C:\Users\Женя\Desktop\лабы\Инф без\лаба 4\RSA1 (1)\RSA1\bin\Debug\librdkafka\x64\librdkafka.dll
+C:\Users\Женя\Desktop\лабы\Инф без\лаба 4\RSA1 (1)\RSA1\bin\Debug\librdkafka\x64\librdkafkacpp.dll
+C:\Users\Женя\Desktop\лабы\Инф без\лаба 4\RSA1 (1)\RSA1\bin\Debug\librdkafka\x64\libssl-1_1-x64.dll
+C:\Users\Женя\Desktop\лабы\Инф без\лаба 4\RSA1 (1)\RSA1\bin\Debug\librdkafka\x64\msvcp140.dll
+C:\Users\Женя\Desktop\лабы\Инф без\лаба 4\RSA1 (1)\RSA1\bin\Debug\librdkafka\x64\vcruntime140.dll
+C:\Users\Женя\Desktop\лабы\Инф без\лаба 4\RSA1 (1)\RSA1\bin\Debug\librdkafka\x64\zlib1.dll
+C:\Users\Женя\Desktop\лабы\Инф без\лаба 4\RSA1 (1)\RSA1\bin\Debug\librdkafka\x64\zstd.dll
+C:\Users\Женя\Desktop\лабы\Инф без\лаба 4\RSA1 (1)\RSA1\bin\Debug\RSA1.exe.config
+C:\Users\Женя\Desktop\лабы\Инф без\лаба 4\RSA1 (1)\RSA1\bin\Debug\RSA1.exe
+C:\Users\Женя\Desktop\лабы\Инф без\лаба 4\RSA1 (1)\RSA1\bin\Debug\RSA1.pdb
+C:\Users\Женя\Desktop\лабы\Инф без\лаба 4\RSA1 (1)\RSA1\bin\Debug\Confluent.Kafka.dll
+C:\Users\Женя\Desktop\лабы\Инф без\лаба 4\RSA1 (1)\RSA1\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Женя\Desktop\лабы\Инф без\лаба 4\RSA1 (1)\RSA1\bin\Debug\Syncfusion.Compression.Base.dll
+C:\Users\Женя\Desktop\лабы\Инф без\лаба 4\RSA1 (1)\RSA1\bin\Debug\Syncfusion.Licensing.dll
+C:\Users\Женя\Desktop\лабы\Инф без\лаба 4\RSA1 (1)\RSA1\bin\Debug\Syncfusion.OfficeChart.Base.dll
+C:\Users\Женя\Desktop\лабы\Инф без\лаба 4\RSA1 (1)\RSA1\bin\Debug\Syncfusion.Presentation.Base.dll
+C:\Users\Женя\Desktop\лабы\Инф без\лаба 4\RSA1 (1)\RSA1\bin\Debug\System.Buffers.dll
+C:\Users\Женя\Desktop\лабы\Инф без\лаба 4\RSA1 (1)\RSA1\bin\Debug\System.Memory.dll
+C:\Users\Женя\Desktop\лабы\Инф без\лаба 4\RSA1 (1)\RSA1\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Женя\Desktop\лабы\Инф без\лаба 4\RSA1 (1)\RSA1\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Женя\Desktop\лабы\Инф без\лаба 4\RSA1 (1)\RSA1\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\Женя\Desktop\лабы\Инф без\лаба 4\RSA1 (1)\RSA1\bin\Debug\System.Text.Json.dll
+C:\Users\Женя\Desktop\лабы\Инф без\лаба 4\RSA1 (1)\RSA1\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Женя\Desktop\лабы\Инф без\лаба 4\RSA1 (1)\RSA1\bin\Debug\System.ValueTuple.dll
+C:\Users\Женя\Desktop\лабы\Инф без\лаба 4\RSA1 (1)\RSA1\bin\Debug\VisioForge.Core.dll
+C:\Users\Женя\Desktop\лабы\Инф без\лаба 4\RSA1 (1)\RSA1\bin\Debug\VisioForge.Libs.dll
+C:\Users\Женя\Desktop\лабы\Инф без\лаба 4\RSA1 (1)\RSA1\bin\Debug\VisioForge.MediaFramework.dll
+C:\Users\Женя\Desktop\лабы\Инф без\лаба 4\RSA1 (1)\RSA1\bin\Debug\VisioForge.Types.dll
+C:\Users\Женя\Desktop\лабы\Инф без\лаба 4\RSA1 (1)\RSA1\bin\Debug\Confluent.Kafka.xml
+C:\Users\Женя\Desktop\лабы\Инф без\лаба 4\RSA1 (1)\RSA1\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Женя\Desktop\лабы\Инф без\лаба 4\RSA1 (1)\RSA1\bin\Debug\Syncfusion.Compression.Base.xml
+C:\Users\Женя\Desktop\лабы\Инф без\лаба 4\RSA1 (1)\RSA1\bin\Debug\Syncfusion.OfficeChart.Base.xml
+C:\Users\Женя\Desktop\лабы\Инф без\лаба 4\RSA1 (1)\RSA1\bin\Debug\Syncfusion.Presentation.Base.xml
+C:\Users\Женя\Desktop\лабы\Инф без\лаба 4\RSA1 (1)\RSA1\bin\Debug\System.Buffers.xml
+C:\Users\Женя\Desktop\лабы\Инф без\лаба 4\RSA1 (1)\RSA1\bin\Debug\System.Memory.xml
+C:\Users\Женя\Desktop\лабы\Инф без\лаба 4\RSA1 (1)\RSA1\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Женя\Desktop\лабы\Инф без\лаба 4\RSA1 (1)\RSA1\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Женя\Desktop\лабы\Инф без\лаба 4\RSA1 (1)\RSA1\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\Женя\Desktop\лабы\Инф без\лаба 4\RSA1 (1)\RSA1\bin\Debug\System.Text.Json.xml
+C:\Users\Женя\Desktop\лабы\Инф без\лаба 4\RSA1 (1)\RSA1\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Женя\Desktop\лабы\Инф без\лаба 4\RSA1 (1)\RSA1\bin\Debug\System.ValueTuple.xml
+C:\Users\Женя\Desktop\лабы\Инф без\лаба 4\RSA1 (1)\RSA1\obj\Debug\RSA1.csproj.AssemblyReference.cache
+C:\Users\Женя\Desktop\лабы\Инф без\лаба 4\RSA1 (1)\RSA1\obj\Debug\RSA1.csproj.SuggestedBindingRedirects.cache
+C:\Users\Женя\Desktop\лабы\Инф без\лаба 4\RSA1 (1)\RSA1\obj\Debug\RSA1.Form1.resources
+C:\Users\Женя\Desktop\лабы\Инф без\лаба 4\RSA1 (1)\RSA1\obj\Debug\RSA1.FormDesc.resources
+C:\Users\Женя\Desktop\лабы\Инф без\лаба 4\RSA1 (1)\RSA1\obj\Debug\RSA1.FormInfo.resources
+C:\Users\Женя\Desktop\лабы\Инф без\лаба 4\RSA1 (1)\RSA1\obj\Debug\RSA1.FormMain.resources
+C:\Users\Женя\Desktop\лабы\Инф без\лаба 4\RSA1 (1)\RSA1\obj\Debug\RSA1.Properties.Resources.resources
+C:\Users\Женя\Desktop\лабы\Инф без\лаба 4\RSA1 (1)\RSA1\obj\Debug\RSA1.csproj.GenerateResource.cache
+C:\Users\Женя\Desktop\лабы\Инф без\лаба 4\RSA1 (1)\RSA1\obj\Debug\RSA1.csproj.CoreCompileInputs.cache
+C:\Users\Женя\Desktop\лабы\Инф без\лаба 4\RSA1 (1)\RSA1\obj\Debug\RSA1.csproj.CopyComplete
+C:\Users\Женя\Desktop\лабы\Инф без\лаба 4\RSA1 (1)\RSA1\obj\Debug\RSA1.exe
+C:\Users\Женя\Desktop\лабы\Инф без\лаба 4\RSA1 (1)\RSA1\obj\Debug\RSA1.pdb
+C:\Users\yaros\source\repos\RSA\RSA1\bin\Debug\librdkafka\x86\libcrypto-1_1.dll
+C:\Users\yaros\source\repos\RSA\RSA1\bin\Debug\librdkafka\x86\libcurl.dll
+C:\Users\yaros\source\repos\RSA\RSA1\bin\Debug\librdkafka\x86\librdkafka.dll
+C:\Users\yaros\source\repos\RSA\RSA1\bin\Debug\librdkafka\x86\librdkafkacpp.dll
+C:\Users\yaros\source\repos\RSA\RSA1\bin\Debug\librdkafka\x86\libssl-1_1.dll
+C:\Users\yaros\source\repos\RSA\RSA1\bin\Debug\librdkafka\x86\msvcp140.dll
+C:\Users\yaros\source\repos\RSA\RSA1\bin\Debug\librdkafka\x86\vcruntime140.dll
+C:\Users\yaros\source\repos\RSA\RSA1\bin\Debug\librdkafka\x86\zlib1.dll
+C:\Users\yaros\source\repos\RSA\RSA1\bin\Debug\librdkafka\x86\zstd.dll
+C:\Users\yaros\source\repos\RSA\RSA1\bin\Debug\librdkafka\x64\libcrypto-1_1-x64.dll
+C:\Users\yaros\source\repos\RSA\RSA1\bin\Debug\librdkafka\x64\libcurl.dll
+C:\Users\yaros\source\repos\RSA\RSA1\bin\Debug\librdkafka\x64\librdkafka.dll
+C:\Users\yaros\source\repos\RSA\RSA1\bin\Debug\librdkafka\x64\librdkafkacpp.dll
+C:\Users\yaros\source\repos\RSA\RSA1\bin\Debug\librdkafka\x64\libssl-1_1-x64.dll
+C:\Users\yaros\source\repos\RSA\RSA1\bin\Debug\librdkafka\x64\msvcp140.dll
+C:\Users\yaros\source\repos\RSA\RSA1\bin\Debug\librdkafka\x64\vcruntime140.dll
+C:\Users\yaros\source\repos\RSA\RSA1\bin\Debug\librdkafka\x64\zlib1.dll
+C:\Users\yaros\source\repos\RSA\RSA1\bin\Debug\librdkafka\x64\zstd.dll
+C:\Users\yaros\source\repos\RSA\RSA1\bin\Debug\RSA1.exe.config
+C:\Users\yaros\source\repos\RSA\RSA1\bin\Debug\RSA1.exe
+C:\Users\yaros\source\repos\RSA\RSA1\bin\Debug\RSA1.pdb
+C:\Users\yaros\source\repos\RSA\RSA1\bin\Debug\Confluent.Kafka.dll
+C:\Users\yaros\source\repos\RSA\RSA1\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\yaros\source\repos\RSA\RSA1\bin\Debug\Syncfusion.Compression.Base.dll
+C:\Users\yaros\source\repos\RSA\RSA1\bin\Debug\Syncfusion.Licensing.dll
+C:\Users\yaros\source\repos\RSA\RSA1\bin\Debug\Syncfusion.OfficeChart.Base.dll
+C:\Users\yaros\source\repos\RSA\RSA1\bin\Debug\Syncfusion.Presentation.Base.dll
+C:\Users\yaros\source\repos\RSA\RSA1\bin\Debug\System.Buffers.dll
+C:\Users\yaros\source\repos\RSA\RSA1\bin\Debug\System.Memory.dll
+C:\Users\yaros\source\repos\RSA\RSA1\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\yaros\source\repos\RSA\RSA1\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\yaros\source\repos\RSA\RSA1\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\yaros\source\repos\RSA\RSA1\bin\Debug\System.Text.Json.dll
+C:\Users\yaros\source\repos\RSA\RSA1\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\yaros\source\repos\RSA\RSA1\bin\Debug\System.ValueTuple.dll
+C:\Users\yaros\source\repos\RSA\RSA1\bin\Debug\VisioForge.Core.dll
+C:\Users\yaros\source\repos\RSA\RSA1\bin\Debug\VisioForge.Libs.dll
+C:\Users\yaros\source\repos\RSA\RSA1\bin\Debug\VisioForge.MediaFramework.dll
+C:\Users\yaros\source\repos\RSA\RSA1\bin\Debug\VisioForge.Types.dll
+C:\Users\yaros\source\repos\RSA\RSA1\bin\Debug\Confluent.Kafka.xml
+C:\Users\yaros\source\repos\RSA\RSA1\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\yaros\source\repos\RSA\RSA1\bin\Debug\Syncfusion.Compression.Base.xml
+C:\Users\yaros\source\repos\RSA\RSA1\bin\Debug\Syncfusion.OfficeChart.Base.xml
+C:\Users\yaros\source\repos\RSA\RSA1\bin\Debug\Syncfusion.Presentation.Base.xml
+C:\Users\yaros\source\repos\RSA\RSA1\bin\Debug\System.Buffers.xml
+C:\Users\yaros\source\repos\RSA\RSA1\bin\Debug\System.Memory.xml
+C:\Users\yaros\source\repos\RSA\RSA1\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\yaros\source\repos\RSA\RSA1\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\yaros\source\repos\RSA\RSA1\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\yaros\source\repos\RSA\RSA1\bin\Debug\System.Text.Json.xml
+C:\Users\yaros\source\repos\RSA\RSA1\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\yaros\source\repos\RSA\RSA1\bin\Debug\System.ValueTuple.xml
+C:\Users\yaros\source\repos\RSA\RSA1\obj\Debug\RSA1.csproj.AssemblyReference.cache
+C:\Users\yaros\source\repos\RSA\RSA1\obj\Debug\RSA1.csproj.SuggestedBindingRedirects.cache
+C:\Users\yaros\source\repos\RSA\RSA1\obj\Debug\RSA1.Form1.resources
+C:\Users\yaros\source\repos\RSA\RSA1\obj\Debug\RSA1.FormDesc.resources
+C:\Users\yaros\source\repos\RSA\RSA1\obj\Debug\RSA1.FormInfo.resources
+C:\Users\yaros\source\repos\RSA\RSA1\obj\Debug\RSA1.FormMain.resources
+C:\Users\yaros\source\repos\RSA\RSA1\obj\Debug\RSA1.Properties.Resources.resources
+C:\Users\yaros\source\repos\RSA\RSA1\obj\Debug\RSA1.csproj.GenerateResource.cache
+C:\Users\yaros\source\repos\RSA\RSA1\obj\Debug\RSA1.csproj.CoreCompileInputs.cache
+C:\Users\yaros\source\repos\RSA\RSA1\obj\Debug\RSA1.csproj.CopyComplete
+C:\Users\yaros\source\repos\RSA\RSA1\obj\Debug\RSA1.exe
+C:\Users\yaros\source\repos\RSA\RSA1\obj\Debug\RSA1.pdb
